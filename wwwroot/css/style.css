@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background-color: #fefcf9;
+    color: #333;
+  }
+  
+  header {
+    background-color: #d4c9b7;
+    color: #3e3e3e;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    margin: 0;
+    flex-grow: 1;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  nav a:hover {
+    color: #7b4f27;
+  }
+  
+  .hero {
+    background-color: #eae2d6;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .hero h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  main {
+    padding: 40px 20px;
+  }
+  
+  .conteudo {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  
+  .card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card h3 {
+    margin-top: 0;
+  }
+  
+  footer {
+    background-color: #d4c9b7;
+    color: #3e3e3e;
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9rem;
+    margin-top: 40px;
+  }
+  

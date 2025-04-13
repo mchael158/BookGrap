@@ -1,0 +1,805 @@
+{
+  "Version": 1,
+  "Hash": "h2Bwby6vZW+mWKZeGZR6P0qiItkIOAwUux3DWFUpJD0=",
+  "Source": "BookGrap",
+  "BasePath": "_content/BookGrap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookGrap/wwwroot",
+      "Source": "BookGrap",
+      "ContentRoot": "/home/txt/Projects/BookGrap/wwwroot/",
+      "BasePath": "_content/BookGrap",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/csexi6t2ey-gjyzsobjz0.gz",
+      "SourceId": "BookGrap",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/BookGrap",
+      "RelativePath": "css/stylelogin#[.{fingerprint=gjyzsobjz0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/txt/Projects/BookGrap/wwwroot/css/stylelogin.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ptikwfwzex",
+      "Integrity": "TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/txt/Projects/BookGrap/wwwroot/css/stylelogin.css"
+    },
+    {
+      "Identity": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/k9oqlmsxbc-dyvr2ku7ja.gz",
+      "SourceId": "BookGrap",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/BookGrap",
+      "RelativePath": "css/style#[.{fingerprint=dyvr2ku7ja}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/txt/Projects/BookGrap/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8n4aakiwcq",
+      "Integrity": "BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/txt/Projects/BookGrap/wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/txt/Projects/BookGrap/wwwroot/css/style.css",
+      "SourceId": "BookGrap",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/txt/Projects/BookGrap/wwwroot/",
+      "BasePath": "_content/BookGrap",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dyvr2ku7ja",
+      "Integrity": "e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/txt/Projects/BookGrap/wwwroot/css/stylelogin.css",
+      "SourceId": "BookGrap",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/txt/Projects/BookGrap/wwwroot/",
+      "BasePath": "_content/BookGrap",
+      "RelativePath": "css/stylelogin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjyzsobjz0",
+      "Integrity": "nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/stylelogin.css"
+    },
+    {
+      "Identity": "/home/txt/Projects/BookGrap/wwwroot/img/perfil.jpg",
+      "SourceId": "BookGrap",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/txt/Projects/BookGrap/wwwroot/",
+      "BasePath": "_content/BookGrap",
+      "RelativePath": "img/perfil#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n6i9c8x6gw",
+      "Integrity": "TwBGLu7Z11h7HoZO5HXEpN8DPvDkXuwM+upWVEOnh0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/perfil.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/k9oqlmsxbc-dyvr2ku7ja.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001650165017"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/k9oqlmsxbc-dyvr2ku7ja.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.dyvr2ku7ja.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/k9oqlmsxbc-dyvr2ku7ja.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001650165017"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyvr2ku7ja"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.dyvr2ku7ja.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyvr2ku7ja"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e3MhTQhRM4nRqu0bo39rHqiwsLUWTuLUiayIbEHESF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.dyvr2ku7ja.css.gz",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/k9oqlmsxbc-dyvr2ku7ja.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyvr2ku7ja"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHA3lopRTNZL9K8C9Pb8250iotaLVy+KP9/WHhenIIk="
+        }
+      ]
+    },
+    {
+      "Route": "css/stylelogin.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/csexi6t2ey-gjyzsobjz0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001652892562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw="
+        }
+      ]
+    },
+    {
+      "Route": "css/stylelogin.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/wwwroot/css/stylelogin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw="
+        }
+      ]
+    },
+    {
+      "Route": "css/stylelogin.css.gz",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/csexi6t2ey-gjyzsobjz0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs="
+        }
+      ]
+    },
+    {
+      "Route": "css/stylelogin.gjyzsobjz0.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/csexi6t2ey-gjyzsobjz0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001652892562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjyzsobjz0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/stylelogin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw="
+        }
+      ]
+    },
+    {
+      "Route": "css/stylelogin.gjyzsobjz0.css",
+      "AssetFile": "/home/txt/Projects/BookGrap/wwwroot/css/stylelogin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjyzsobjz0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/stylelogin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nAUOvzkIu4Mmt2waqGx7RMxrN/V6ae4ev1AanpM16rw="
+        }
+      ]
+    },
+    {
+      "Route": "css/stylelogin.gjyzsobjz0.css.gz",
+      "AssetFile": "/home/txt/Projects/BookGrap/obj/Debug/net9.0/compressed/csexi6t2ey-gjyzsobjz0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:46:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjyzsobjz0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/stylelogin.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRi5Llys8IAwcqzo9v9UBean/o6InhXxumG20LWAPBs="
+        }
+      ]
+    },
+    {
+      "Route": "img/perfil.jpg",
+      "AssetFile": "/home/txt/Projects/BookGrap/wwwroot/img/perfil.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TwBGLu7Z11h7HoZO5HXEpN8DPvDkXuwM+upWVEOnh0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:47:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TwBGLu7Z11h7HoZO5HXEpN8DPvDkXuwM+upWVEOnh0I="
+        }
+      ]
+    },
+    {
+      "Route": "img/perfil.n6i9c8x6gw.jpg",
+      "AssetFile": "/home/txt/Projects/BookGrap/wwwroot/img/perfil.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TwBGLu7Z11h7HoZO5HXEpN8DPvDkXuwM+upWVEOnh0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 23:47:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n6i9c8x6gw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/perfil.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TwBGLu7Z11h7HoZO5HXEpN8DPvDkXuwM+upWVEOnh0I="
+        }
+      ]
+    }
+  ]
+}

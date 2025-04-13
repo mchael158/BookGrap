@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Login";
+}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login BookClass</title>
+    <link rel="stylesheet" href="~/css/stylelogin.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> 
+</head>
+<body>
+    <main class="container">
+        <h1>Login BookClass</h1>
+        <form asp-action="Index" method="get">
+            <label for="email">Email:</label>
+            <div class="input-container">
+                <i class="bx bx-envelope"></i>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <label for="senha">Senha:</label>
+            <div class="input-container">
+                <input type="password" id="senha" name="senha" required>
+                <i class="bx bx-lock"></i>
+            </div>
+            <button type="submit">Entrar</button>
+        </form>
+    </main>
+</body>
+</html>
